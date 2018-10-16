@@ -12,7 +12,7 @@ public class TableController {
     @RequestMapping(path = "/tables")
     @ResponseBody
     String home() {
-        return "Tables goes here!!";
+        return "Tables go here!!";
     }
 
 }
